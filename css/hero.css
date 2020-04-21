@@ -1,0 +1,99 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+
+
+header{
+	background-color: #006600;
+	padding: 30px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+
+}
+h2 {
+	border-left: 50px;
+
+}
+h3{
+	border-left: 50px;
+	text-align: center;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 500px;
+	border: 10px solid #001a00
+
+}
+.container{
+	display: flex;
+	flex-direction: row;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+img.little-image{
+	width: 300px;
+	border-radius: 50px;
+	margin-left: 10px;
+
+}
+img.mando{
+	width:250px;
+	border-radius: 50px;
+
+}
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+p.caption_left{
+	font-size:18px;
+	color:#006600 ;
+	font-style: italic;
+	font-weight: bold;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	;
+}
+
+a{
+	color: darkgreen;
+
+}
+footer{
+	margin-top: 10px;
+	padding: 40px 20px;
+	background-color: #66ff66;
+}
+
+ul{
+	text-align: center;
+
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+
+}
+.music{
+	
+
+}
+/*<header>
+<img src="img/profile.jpg">
+<h1>Baby Yoda</h1>
+</header>
