@@ -18,7 +18,13 @@ h1{
 }
 h2 {
 	border-left: 50px;
+	text-align: center;
 
+}
+p {
+	text-align: center;
+	font-size: 20px;
+	font-style: bold;
 }
 h3{
 	border-left: 50px;
@@ -89,10 +95,8 @@ footer ul li{
 	margin: 0 5px;
 
 }
-.music{
-	
 
-}
+	
 /*<header>
 <img src="img/profile.jpg">
 <h1>Baby Yoda</h1>
